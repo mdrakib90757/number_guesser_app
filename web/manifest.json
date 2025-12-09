@@ -1,11 +1,11 @@
 {
-    "name": "number_guesser_app",
-    "short_name": "number_guesser_app",
+    "name": "mind_reader",
+    "short_name": "mind_reader",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Magic Mind Reader",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

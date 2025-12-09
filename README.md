@@ -1,6 +1,6 @@
-# number_guesser_app
+# mind_reader
 
-A new Flutter project.
+Magic Mind Reader
 
 ## Getting Started
 
