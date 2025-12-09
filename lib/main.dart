@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:number_guesser_app/screen/game_screen.dart';
-import 'package:number_guesser_app/screen/result_screen.dart';
-import 'package:number_guesser_app/screen/welcome_screen.dart';
+import 'package:mind_reader/screen/game_screen.dart';
+import 'package:mind_reader/screen/result_screen.dart';
+import 'package:mind_reader/screen/welcome_screen.dart';
 
 void main() {
   runApp(const MyApp());

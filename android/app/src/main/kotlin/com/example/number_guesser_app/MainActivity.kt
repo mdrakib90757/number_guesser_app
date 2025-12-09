@@ -1,4 +1,4 @@
-package com.example.number_guesser_app
+package com.hrnsoft.mindreader
 
 import io.flutter.embedding.android.FlutterActivity
 
